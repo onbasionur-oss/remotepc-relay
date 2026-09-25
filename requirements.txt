@@ -1,0 +1,5 @@
+python-socketio[client]>=5.10.0
+pyautogui>=0.9.54
+Pillow>=10.0.0
+pyperclip>=1.8.2
+websocket-client>=1.7.0
